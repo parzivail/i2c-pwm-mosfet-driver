@@ -2,6 +2,8 @@
 
 ![An image of the circuit board](images/top.png)
 
+Buy this board [on Tindie](www.tindie.com/products/parzivail/i2c-pwm-mosfet-driver-mk-1/)!
+
 This PWM driver board uses a PCA9685 controlled over I2C to drive up to 16 high-current loads with PWM via N-channeo MOSFETs. Perfect for 12V or 24V LED strips.
 
 - PCA9685 PWM controller with 12-bit PWM resolution
